@@ -8,8 +8,6 @@
 - 🔭 I’m currently working on [QuickAcces](https://github.com/mercred123/QuickAcces)
 
 - 🌱 I’m currently learning **electron**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
